@@ -1,0 +1,5 @@
+source("/Users/heatherwelch/Dropbox/FACET/NASA-FaCeT_github/1_data_exploration/observer_data_exploration_fcns.R")
+source("/Users/heatherwelch/Dropbox/FACET/NASA-FaCeT_github/2_data_extraction/extracto_ROMS.R")
+source("/Users/heatherwelch/Dropbox/FACET/NASA-FaCeT_github/3_model_fit/brt_fit_fcns.R")
+source("/Users/heatherwelch/Dropbox/FACET/NASA-FaCeT_github/4_model_evaluation/brt_evaluate_fcns.R")
+source("/Users/heatherwelch/Dropbox/FACET/NASA-FaCeT_github/5_model_prediction/brt_predict_fcns.R")
